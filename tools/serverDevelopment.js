@@ -10,7 +10,7 @@ const logger = require('./logger');
 const app = express();
 
 //app.use('/', router);
-express.static.mime.default_type = 'application/pkcs7-mime';
+express.static.mime.default_type = 'application/json';
 app.use('/', express.static('link_app'));
 app.use(logger.errorHandler());
 app.use(morgan('tiny'));
