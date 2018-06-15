@@ -1,10 +1,10 @@
 {
-   "applinks”: {
-       "apps”: [],
-       "details”: [
+   "applinks": {
+       "apps": [],
+       "details": [
            {
-               "appID”: "49CDECDAWB.com.itau.itaucard.enterprise.develop",
-               "paths”: ["*"]
+               "appID": "49CDECDAWB.com.itau.itaucard.enterprise.develop",
+               "paths": ["*"]
            }
        ]
    }
