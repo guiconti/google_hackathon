@@ -9,7 +9,7 @@ const logger = require('./logger');
 
 const app = express();
 
-app.use('/api', router);
+app.use('/', express.static('link_app'));
 app.use(logger.errorHandler());
 
 module.exports = app;
