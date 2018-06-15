@@ -1,3 +1,11 @@
 {
-    "teste": "testado"
+   "applinks”: {
+       "apps”: [],
+       "details”: [
+           {
+               "appID”: "9JA89QQLNQ.com.itau.itaucard.enterprise.develop",
+               "paths”: ["*"]
+           }
+       ]
+   }
 }
