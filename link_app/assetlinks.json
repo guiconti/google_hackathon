@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "android_app",
+            "package_name": "com.itaucard.activity",
+            "sha256_cert_fingerprints": [
+                "F0:FA:D6:57:32:D1:C7:42:29:34:C5:54:07:AB:61:6E:97:BF:22:79:EE:EA:74:AD:F0:AB:7C:EE:B1:1A:F0:90"
+            ]
+        }
+    }
+]
