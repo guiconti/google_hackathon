@@ -1,11 +1,9 @@
 {
-   "applinks": {
-       "apps": [],
-       "details": [
-           {
-               "appID": "49CDECDAWB.com.itau.itaucard.enterprise.develop",
-               "paths": ["*"]
-           }
-       ]
-   }
+    "applinks": {
+        "apps": [],
+        "details": [{
+            "appID": "2V856UFL2V.br.com.serasaconsumidor.serasaapp",
+            "paths": ["/esqueceu-senha/criar-senha"]
+            }]
+    }
 }
