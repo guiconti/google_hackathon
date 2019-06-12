@@ -3,7 +3,7 @@
         "apps": [],
         "details": [{
             "appID": "2V856UFL2V.br.com.serasaconsumidor.serasaapp",
-            "paths": ["/esqueceu-senha/criar-senha"]
+            "paths": ["*"]
             }]
     }
 }
